@@ -1,5 +1,5 @@
 # your domain
-domain: xiao7.heroku.com
+domain: xiao7ss.heroku.com
 port:  80               # default 12580
 
 # source list file
