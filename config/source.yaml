@@ -2,7 +2,11 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
-
+    
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/iam7cn/subscription/main/sub.list
+    
 # 订阅链接
 - type: subscribe
   options:
