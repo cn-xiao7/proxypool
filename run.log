@@ -1,0 +1,19 @@
+nohup: 忽略输入
+[0000]  INFO Getter count: 7
+[0000]  WARN database connection info: failed to connect to `host=/tmp user=proxypool database=proxypool`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory) 
+		Use cache to store proxies
+[0001]  INFO Do the first crawl...
+[0001]  INFO STATISTIC: Subscribe	count=0	url=https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+
+[0001]  INFO STATISTIC: Clash	count=0	url=https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+
+[0011]  INFO STATISTIC: Fanqiangdang	count=0	url=https://fanqiangdang.com/forum-48-1.html
+
+[0011]  INFO STATISTIC: WebFuzz	count=0	url=https://merlinblog.xyz/wiki/freess.html
+
+[0021]  INFO STATISTIC: FreeSSRxyz	count=0	url=api.free-ssr.xyz
+
+[0180]  WARN provider: nothing to provide
+[0196]  WARN provider: nothing to provide
+[0201]  INFO STATISTIC: TGChannel	count=346	url=https://t.me/s/ssrList
+
